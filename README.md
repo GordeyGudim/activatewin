@@ -3,7 +3,7 @@
 ## Установка
 
 ### Office
-1. Для установки [образа Microsoft Office](https://disk.yandex.ru/d/RXhFA60jXgRkfg)(ru и eng версии).
+1. Для установки [образа Microsoft Office](https://disk.yandex.ru/d/RXhFA60jXgRkfg) (ru и eng версии).
 
 2. После установки нужно нажать на файл .iso правой кнопкой мыши и подключить образ.
 
@@ -38,5 +38,7 @@
    ```
 
 3. В появившемся меню выберите нужный вам номер.
+
+4. Запустите любое приложение оффиса (например Word) и примите условия лицензии.
 
 >Информация взята с [репозитория Microsoft Activation Scripts (MAS)](https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F) и [поста на Дзен](https://dzen.ru/a/ZXKy7V_d5C72Ghn7).

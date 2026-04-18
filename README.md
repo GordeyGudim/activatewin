@@ -16,7 +16,7 @@
 
    ```powershell
    irm https://get.activated.win | iex
-
+   ```
    Если команда выше заблокирована (ISP/DNS), попробуйте эту(работает на Windows 10 или 11)
    
    ```powershell

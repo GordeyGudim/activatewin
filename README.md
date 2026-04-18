@@ -6,8 +6,6 @@
 
 ## Как активировать Windows / Office / Extended Security Updates (ESU)?
 
-### Способ 1 - PowerShell ❤️
-
 1. Нажмите **Пуск**, введите `PowerShell` и откройте его.
 
 2. Скопируйте и вставьте код ниже, затем нажмите **Enter**.

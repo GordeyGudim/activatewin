@@ -3,7 +3,7 @@
 ## Установка
 
 ### Office
-1. Для установки образа Microsoft Office [https://disk.yandex.ru/d/RXhFA60jXgRkfg](ru и eng версии).
+1. Для установки образа Microsoft Office [iso](https://disk.yandex.ru/d/RXhFA60jXgRkfg)(ru и eng версии).
 
 2. После установки нужно нажать на файл .iso правой кнопкой мыши и подключить образ.
 
@@ -12,7 +12,7 @@
 4. Активировать Office через `PowerShell` как показано ниже.
 
 ### Windows
-1. Для установки образа Windows10 [https://disk.yandex.ru/d/RXhFA60jXgRkfg].
+1. Для установки образа Windows10 [iso](https://disk.yandex.ru/d/RXhFA60jXgRkfg).
 
 2. Здесь не будет полного гайда на установку Windows10, просьба обратиться к другим источникам.
 
@@ -39,4 +39,4 @@
 
 3. В появившемся меню выберите нужный вам номер.
 
->Информация взята с [репозитория Microsoft Activation Scripts (MAS)] (https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F) и [поста на Дзен] (https://dzen.ru/a/ZXKy7V_d5C72Ghn7).
+>Информация взята с [репозитория Microsoft Activation Scripts (MAS)](https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F) и [поста на Дзен](https://dzen.ru/a/ZXKy7V_d5C72Ghn7).

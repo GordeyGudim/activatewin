@@ -1,4 +1,4 @@
-# Microsoft Activation Scripts (MAS)
+# Активация 
 
 Открытый активатор Windows и Office, включающий методы HWID, Ohook, TSforge и Online KMS, а также расширенное устранение неполадок.
 
@@ -16,3 +16,11 @@
 
    ```powershell
    irm https://get.activated.win | iex
+
+   Если команда выше заблокирована (ISP/DNS), попробуйте эту(работает на Windows 10 или 11)
+   
+   ```powershell
+   iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+
+
+3. 

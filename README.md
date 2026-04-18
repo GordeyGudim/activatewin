@@ -21,6 +21,8 @@
    
    ```powershell
    iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+   ```
 
+3. В появившемся меню выберите нужный вам номер.
 
-3. 
+>**Note** Информация взята с репозитория Microsoft Activation Scripts (MAS) [https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F](click )

@@ -1,4 +1,4 @@
-# Активация 
+# Активация при помощи Microsoft Activation Scripts (MAS)
 
 Открытый активатор Windows и Office, включающий методы HWID, Ohook, TSforge и Online KMS, а также расширенное устранение неполадок.
 

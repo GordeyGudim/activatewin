@@ -25,4 +25,4 @@
 
 3. В появившемся меню выберите нужный вам номер.
 
->**Note** Информация взята с репозитория Microsoft Activation Scripts (MAS) [https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F](click )
+>Информация взята с репозитория Microsoft Activation Scripts (MAS) [https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F]

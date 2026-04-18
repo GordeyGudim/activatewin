@@ -1,10 +1,26 @@
-# Активация при помощи Microsoft Activation Scripts (MAS)
+# Установка и активация Windows10 и Microsoft Office.
 
-Открытый активатор Windows и Office, включающий методы HWID, Ohook, TSforge и Online KMS, а также расширенное устранение неполадок.
+## Установка
+
+### Office
+1. Для установки образа Microsoft Office [https://disk.yandex.ru/d/RXhFA60jXgRkfg].
+
+2. После установки нужно нажать на файл .iso правой кнопкой мыши и подколючить образ.
+
+3. Запустить файл setup.exe и разрешить ему вносить изменения на устройстве.
+
+4. Активировать Office через `PowerShell` как показано ниже.
+
+### Windows
+1. Для установки образа Windows10 [https://disk.yandex.ru/d/RXhFA60jXgRkfg]
+
+2. Здесь не будет полного гайда на установку Windows10, просьба обратиться к другим источникам.
+
+3. Активировать Office через `PowerShell` как показано ниже.
 
 ---
 
-## Как активировать Windows / Office / Extended Security Updates (ESU)?
+## Активация Windows / Office?
 
 1. Нажмите **Пуск**, введите `PowerShell` и откройте его.
 
@@ -23,4 +39,4 @@
 
 3. В появившемся меню выберите нужный вам номер.
 
->Информация взята с репозитория Microsoft Activation Scripts (MAS) [https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F]
+>Информация взята с репозитория Microsoft Activation Scripts (MAS) [https://github.com/GordeyGudim/activatewin/blob/main/README.md#способ-1---powershell-%EF%B8%8F] и поста на Дзен [https://dzen.ru/a/ZXKy7V_d5C72Ghn7]

@@ -3,7 +3,7 @@
 ## Установка
 
 ### Office
-1. Для установки образа Microsoft Office [https://disk.yandex.ru/d/RXhFA60jXgRkfg].
+1. Для установки образа Microsoft Office [https://disk.yandex.ru/d/RXhFA60jXgRkfg](ru и eng версии).
 
 2. После установки нужно нажать на файл .iso правой кнопкой мыши и подколючить образ.
 
